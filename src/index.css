@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: GILROY;
+    src: url("./FONTS/Gilroy-Medium.woff");
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: GILROY;
+}
+
+::selection{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}

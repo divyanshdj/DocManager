@@ -1,7 +1,18 @@
 # DocManager
 
 **Description:**
-DocManager is a React application designed to manage documents efficiently. It features a sleek Document Card component for displaying document details with interactive actions such as download or close. The project integrates Tailwind CSS for styling and Framer Motion for smooth drag functionality, providing an enhanced user experience.
+DocManager is a React app with a Document Card component for managing documents. It uses Tailwind CSS for styling and Framer Motion for smooth drag functionality.
+
+<div align="center">
+
+  <h2 align="center">Description</h2>
+
+  DocManager is a React app with a Document Card component for managing documents. It uses Tailwind CSS for styling and Framer Motion for smooth drag functionality.
+
+  <a href="https://doc-manager-chi.vercel.app/"><strong>➥ Live Demo</strong></a>
+
+</div>
+
 
 **Installation:**
 To run this project locally, follow these steps:
@@ -38,3 +49,9 @@ Contributions are welcome! Feel free to open issues or pull requests for any enh
 - React: https://reactjs.org/
 - Tailwind CSS: https://tailwindcss.com/
 - Framer Motion: https://www.framer.com/motion/
+
+<br />
+
+### Contact
+
+If you want to contact with me you can reach me at [Linkedin](https://www.linkedin.com/in/divyansh-jain-29712726b).

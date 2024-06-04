@@ -15,11 +15,10 @@
 
 ## Features
 
-- **Responsive Design**: The website is fully responsive and adapts to all screen sizes, ensuring a seamless shopping experience on any device.
-- **Modern Technologies**: Built using the latest web technologies, including HTML, CSS, and JavaScript.
-- **User-Friendly Interface**: A clean and intuitive interface makes it easy for users to navigate and find what they are looking for.
-- **Stylish Layout**: Visually appealing design with an emphasis on aesthetics and usability.
-- **Fast Load Times**: Optimized for quick loading times, ensuring a smooth and enjoyable browsing experience.
+- **Document Card Component**: Displays document details.
+- **Interactive Actions**: Download and close options for each document card.
+- **Smooth Drag Functionality**: Enhanced user experience with Framer Motion.
+- **Tailwind CSS**: Modern and responsive styling.
 
 </div>
 
